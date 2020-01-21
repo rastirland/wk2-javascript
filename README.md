@@ -1,1 +1,1 @@
-# js-projects-master
+# js-slide-examples
